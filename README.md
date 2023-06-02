@@ -10,6 +10,8 @@ npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
+
+yarn hardhat run scripts/deploy.js --network arbitrumOne
 ```
 
 CONTRACT_ADDRESS_POLYGON=0x678deb0fe781b9e8cecf806195efb2554f0c3490

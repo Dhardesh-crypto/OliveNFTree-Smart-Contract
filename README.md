@@ -1,6 +1,10 @@
 # OliveNFTree Smart Contract Hardhat Project
 
 This project comes with the OliveNFTree smart contract and a script that deploys that contract.
+You'll need a .env file 
+
+API_URL=https://polygon-mainnet.g.alchemy.com/v2/<ENTER YOUR CODE HERE IF YOU WANT TO DEPLOY ON POLYGON>
+PRIVATE_KEY=<ENTER THE PRIVATE KEY OF YOUR WALLET HERE>
 
 Try running some of the following tasks:
 
